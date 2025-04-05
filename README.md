@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rehotunchik/OldPerduns/main/assets/logo.png" width="300" alt="Old Perduns Logo"/>
+  <img src="./assets/old-perduns-logo.png" alt="Old Perduns Logo" width="200" />
 </p>
 
 <h1 align="center">Old Perduns 🛡️📲</h1>
